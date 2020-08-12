@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HTML/CSS/JS & DOM - Dice Challenge
 
 - [About this project](#about)
@@ -34,9 +33,3 @@ To run the site on your local machine
 2. Extract the .zip file.
 3. Open .html file in your browser.
 5. Alternatively you can click on the following <a href="https://aniketpathak.live/Projects/DiceChallengeGame/index.html" target="_blank">Site Link</a> to view demo.
-=======
-# Dice-Challenge-Game
-Dice Challenge Game created using pure JavaScript.
-
-Demo: https://aniketpathak.live/Projects/DiceChallengeGame/index.html
->>>>>>> 0a38e137d9fea2cc939c08fcc1274c7e9a2afefe
